@@ -13,6 +13,9 @@ TestResults
 *.user
 *.sln.docstates
 
+# Key files
+*.pfx
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
