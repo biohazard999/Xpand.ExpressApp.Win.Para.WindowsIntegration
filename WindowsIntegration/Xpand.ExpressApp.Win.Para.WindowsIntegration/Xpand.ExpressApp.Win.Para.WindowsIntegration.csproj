@@ -93,8 +93,9 @@
       <Name>System.XML</Name>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Vestris.ResourceLib">
-      <HintPath>..\..\..\lib\Vestris.ResourceLib\Vestris.ResourceLib.dll</HintPath>
+    <Reference Include="Vestris.ResourceLib, Version=1.4.1212.0, Culture=neutral, PublicKeyToken=ec632d8ba5e5750d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Vestris.ResourceLib\Vestris.ResourceLib.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
