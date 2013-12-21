@@ -56,7 +56,7 @@ You can currently specify:
 - `PathToLaunch`: The program you like to launch
 - `Arguments`: The arguments that are passed to the application
 - `WorkingDirectory`: Specifies the folder in which the program is launched
-- `ImageName`: An [ImageName][#Images] to provide an icon for the JumpListItem
+- `ImageName`: An [ImageName](#Images) to provide an icon for the JumpListItem
 - `Caption`: The Text that is displayed to the user
 - `Index`: The order of the JumpListItem
 - `Id`: The Id of the item
@@ -68,7 +68,7 @@ You can currently specify:
 
 - `NavigationItem`: Specifies the NavigationItem that should be shown
 - `UseProtocolIfAvailable`: Uses the protocol handler if available
-- `ImageName`: An [ImageName][#Images] to provide an icon for the JumpListItem 
+- `ImageName`: An [ImageName](#Images) to provide an icon for the JumpListItem 
 - `Caption`: The Text that is displayed to the user
 - `Index`: The order of the JumpListItem
 - `Id`: The Id of the item
