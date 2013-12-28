@@ -30,7 +30,7 @@ namespace Xpand.ExpressApp.Win.Para.WindowsIntegration
 
                 var item = new ChoiceActionItem("CommandLineArgument", sc);
                 controller.ShowNavigationItemAction.DoExecute(item);
-
+                
                 (Window as WinWindow).Form.BringToFront();
                 (Window as WinWindow).Form.Focus();
             }

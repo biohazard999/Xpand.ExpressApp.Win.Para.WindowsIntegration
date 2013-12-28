@@ -8,6 +8,12 @@ Deeper Windows Integration Features to XAF/Xpand
 
 This Module allows you to integrate the [TaskbarAssistent](http://documentation.devexpress.com/#WindowsForms/clsDevExpressUtilsTaskbarTaskbarAssistanttopic "TaskbarAssistent Component") into XAF.
 
+### Installation ###
+
+Simple grab via nuget or download the source and rebuild it. If you build it from scratch you need to specify a key for strong naming.
+
+    Install-Package Xpand.ExpressApp.Win.Para.WindowsIntegration
+
 
 ### Getting started ###
 

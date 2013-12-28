@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Xpand.ExpressApp.Win.Para.WindowsIntegration")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Deeper WindowsForms Integration for XAF/Xpand. Taskbar Jumplists and more")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Paragraph-Software GmbH")]
 [assembly: AssemblyProduct("Xpand.ExpressApp.Win.Para.WindowsIntegration")]
@@ -27,4 +27,4 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
-[assembly: AssemblyVersion("13.2.8.5")]
+[assembly: AssemblyVersion("13.2.5.0")]

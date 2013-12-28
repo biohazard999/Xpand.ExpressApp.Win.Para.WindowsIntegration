@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/biohazard999/Xpand.ExpressApp.Win.Para.WindowsIntegration/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/biohazard999/Xpand.ExpressApp.Win.Para.WindowsIntegration</projectUrl>
+    <iconUrl>http://www.paragraph-software.at/bundles/paragraph/images/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Init version</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>Windows Taskbar Jumplist CustomProtocol</tags>
+  </metadata>
+  <files>
+    <file src="bin\$configuration$\Vestris.ResourceLib.dll" target="lib\net40\" />
+  </files>
+</package>
